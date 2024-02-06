@@ -1,0 +1,12 @@
+einops==0.7.0
+matplotlib==3.8.2
+numpy==1.26.2
+pandas==2.1.3
+patool==2.0.0
+reformer-pytorch==1.4.4
+scikit-learn==1.3.2
+scipy==1.11.4
+sktime==0.24.1
+sympy==1.12
+torch==2.1.2
+tqdm==4.66.1
